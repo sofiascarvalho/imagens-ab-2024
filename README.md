@@ -1,6 +1,6 @@
 # Landing Page - Imagens
 
-![](./img/Captura%20de%20Tela%202024-09-04%20%C3%A0s%2015.44.18.png)
+![](./img/Captura%20de%20Tela%202024-09-04%20%C3%A0s%2015.51.46.png)
 
 ---
 ## Sobre
